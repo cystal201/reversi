@@ -1,4 +1,3 @@
-//17D8102013J Shintaro Senuma
 import java.awt.*;
 import java.awt.event.*;
 import javax.lang.model.util.ElementScanner6;
